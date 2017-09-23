@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherViewer</string>
+    <string name="hint">请输入城市名字：</string>
+    <string name="url">https://free-api.heweather.com/v5/forecast?city=%1$s&amp;key=10a0761fb9dd44e198cd85cbf963dace</string>
+    <string name="lowTemp">最低气温：%1$d度</string>
+    <string name="highTemp">最高气温：%1$d度</string>
+    <string name="hum">湿度：%1$d%%</string>
+</resources>
